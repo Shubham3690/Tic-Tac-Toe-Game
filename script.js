@@ -1,6 +1,4 @@
-// 5 parts 
 
-//anonymous function 
 window.onload = function() {
 	//1. Initial states 
 	var num;
